@@ -54,7 +54,7 @@ bit.ly/Pormes17
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="[![twitter badge](https://img.shields.io/badge/twitter-@anonymous_dikha-%231FA1F1?style=flat&logo=twitter&logoColor=blue)](https://img.shields.io/badge/twitter-@anonymous_dikha-%231FA1F1?style=flat&logo=twitter&logoColor=blueor=blue)](https://twitter.com/anonymous_dikha)
+[<img align="[![twitter badge](https://img.shields.io/badge/twitter-@anonymous_dikha-%231FA1F1?style=flat&logo=twitter&logoColor=blue)](https://twitter.com/anonymous_dikha)
 [![instagram badge](https://img.shields.io/badge/instagram-Pormes17-%230177B5?style=flat&logo=instagram&logoColor=pink)](https://www.instagram.com/Pormes17)
 [![github badge](https://img.shields.io/badge/github-pormes-%23E4415F?style=flat&logo=github&logoColor=white)](https://github.com/Pormes-Official)
 [![youtube badge](https://img.shields.io/badge/youtube-pormes17-%23E4415F?style=flat&logo=youtube&logoColor=red)](https://bit.ly/Pormes17)
@@ -63,7 +63,7 @@ bit.ly/Pormes17
 
 <!-- SOCIAL MEDIA:END -->
 
-### My GitHub Top Languages 
+### My GitHub Top Languages
 <!-- GITHUB TOP LANGUAGES:END -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pormes&hide=css,html)
 <!-- GITHUB TOP LANGUAGES:END -->
