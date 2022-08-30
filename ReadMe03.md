@@ -17,11 +17,11 @@ and learning programming through small projects  on the side.
 </p>
 
 ```python
-class AbhigyanTrips():
+class pormes-official():
     
   def __init__(self):
-    self.name = "pormes17";
-    self.username = "pormes17";
+    self.name = "pormes-official";
+    self.username = "pormes-official";
     self.location = "Maluku, Indonesia";
     self.twitter = "@dikhavan";
     self.web = "https://hydrafireofficial.wordpress.com";
