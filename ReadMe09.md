@@ -1,6 +1,6 @@
 <img src="https://b4dcat404.github.io/images/two.gif" width="100%"/>
 
-# 🖖 Hey! Welcome to pormes17 <img align="right" src="https://komarev.com/ghpvc/?username=b4dcat404&style=flat-square&color=blueviolet">
+# 🖖 Hey! i'm pormes17 <img align="right" src="https://komarev.com/ghpvc/?username=b4dcat404&style=flat-square&color=blueviolet">
 
 ### Languages and Tools 🛠 
 
